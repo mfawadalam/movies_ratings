@@ -1,0 +1,6 @@
+target
+project
+.idea
+artefact
+target/
+.DS_Store
