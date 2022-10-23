@@ -1,5 +1,4 @@
 # movies_ratings
-Recruitment process in NewDay for a Data Engineer
 
 At the moment a template is accessible to makes things easier to the candidate, just download it locally and configure it as sbt project to get all the dependencies.
 
